@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 33%
+    right: 60%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 37%
+    right: 38%
 
 
 @keyframes float1
@@ -17,3 +17,319 @@
 
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+
+///////////////// Slider --------------------------------
+
+.slyderA_bg_01
+  background-image: url("../assets/curso/temas/bgr-1.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FECA2E
+  opacity: 1
+
+///////////////////////////// Taps-B ---------------------
+
+.tabs-b 
+    border-bottom: 4px solid #A7E446
+
+///////////////// Bloque texto G-----------------
+
+.bloque-texto-g1__img 
+  width: 50%
+  position: absolute
+  top: 0
+  left: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media (max-width: 500px)
+    height: 250px
+    width: 100%
+    left: 0%
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 60%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: 40%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+
+.bloque-texto-g2__texto 
+  position: relative
+  width: 70%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: 30%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+
+////////////////// Tarjetas ---------------------
+
+.tarjeta--rosa
+  background-color: #FEE3E4
+
+.tarjeta--rosa1
+  background-color: #FFE4E5
+
+.tarjeta--rosa2
+  background-color: #FEC8CA
+
+.tarjeta--amarilla
+  background-color: #FFF7E0
+
+.tarjeta--container > .tarjeta:first-child 
+    border-top-left-radius: 50px
+    border-bottom-left-radius: 50px
+
+.tarjeta--container > .tarjeta:last-child 
+    border-top-right-radius: 50px
+    border-bottom-right-radius: 50px
+
+.tarjeta--rosa3
+  background-color: #FFE4E5
+  border-top-left-radius: 40px
+
+.tarjeta--rosa4
+  background-color: #FEC8CA
+  border-bottom-left-radius: 40px
+
+
+
+//////////////////// Imagenes -------------------
+
+.img12-tm1
+  width: auto
+  position: relative
+  left: 30%
+  @media (max-width: 500px)
+    width: 100%
+    left: 0%
+
+.img-flotante
+  animation: float1 3s ease-in-out infinite alternate
+  position: relative
+
+.img24-a-27-t2
+  position: relative
+  width: 60%
+  left: 25%
+  margin-top: 25%
+  @media (max-width: 500px)
+    width: 100%
+    left: 50%
+    margin-top: 0%
+
+.img28-tm2
+  position: relative
+  max-width: 250%
+  width: 205%
+  right: 140%
+  @media (max-width: 500px)
+    width: 100%
+    left: 60%
+
+///////////////////////7 Taps-A ------------------------
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+/////////////// Viñetas ------------------------
+
+.color-vineta
+  color: #FC4B52 !important
+
+//viñeta para los títulos------------------------------------------------------------
+.vineta-titulos
+  background: url("../assets/curso/temas/icono.svg") !important
+  background-repeat: no-repeat !important
+
+
+
+///// Custom acordeon A tipo A -------------------------------------- 
+
+.acordion__accion__btn--a
+  background-color: #A7E446 !important
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 0.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 1.85rem ))
+    background-color: #FECA2E
+    width: 320px
+    height: 220px
+    left: 12%
+    @media (max-width: 500px)
+      width: 360px
+      height: 200px
+      left: 0%
+
+.crd_hover_txt2
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body2 
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+
+  .crd_hover_txt--body2
+    position: absolute
+    padding: 0.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 0rem ))
+    background-color: #feca2ee0
+    width: 184px
+    height: 218px
+    left: 0%
+    border-radius: 10px
+    @media (max-width: 500px)
+      width: 235px
+      height: 280px
+      left: 0%
+
+.texto-negro
+  color: #12263F !important
+
+
+///////////////////////// Carrusel de tarjetas ---------------------------
+
+.bgr-carrusel
+  background-image: url("../assets/curso/temas/tema2/bgr-tarjeta1.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important
+  width: 270px
+  height: 400px
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #DFF7F9
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFF2CA
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #FFF2CA
+
+////////////// Color -------------------
+
+.color-bloque-texto:before
+  background-color: #E9F8D0
+
+.bloque-texto-b:before 
+    content: ''
+    display: block
+    position: absolute
+    top: 30%
+    bottom: 40%
+    left: 34%
+    right: 0
+
+////////////////////// Punto caliente --------------------
+
+.ubicacion1
+  position: relative
+  bottom: 140px
+  right: 173px
+  @media (max-width: 500px)
+    bottom: 40px
+    right: 45px
+
+.ubicacion2
+  position: relative
+  bottom: 140px
+  right: 187px
+  @media (max-width: 500px)
+    bottom: 40px
+    right: 45px
+
+.ubicacion3
+  position: relative
+  bottom: 140px
+  right: 46px
+  @media (max-width: 500px)
+    bottom: 40px
+    right: 45px
+
+//////////////////////////// bloque texto B ---------------------
+
+.bloque-texto-b1
+  position: relative
+  &::before  
+    top: 32%
+    bottom: 32%
+    left: 15%
+    right: 0%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E9F8D0 !important
+
+  &__texto 
+      position: relative
+    
+/////////////////// punto caliente modal --------------------
+
+.img-infografica__item__tooltip, .img-infografica-b__item__tooltip
+  background-color: #cccccc00
+
+.img-infografica-b__modal 
+  background-color:#feca2e
+  border-radius: 40px
+  position: relative
+  max-width: 900px
+  min-height: 100px !important
+  top: 30%
+  left: 15%
+  margin-bottom: 40%
+  @media (max-width: 500px)
+    left: 0%
+    top: 10%
+
+
+.img-infografica-b__modal__contenido div > * 
+  color: #12263F !important
+
+.img-infografica-b__modal__btn-cerrar i
+  color: #12263F !important
+
+.cajon.color-primario 
+    background-color: #FED2D3
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #feca2e
+
+.linea-tiempo-c__header__btn--right:hover
+  border-color: #feca2e
+
+.linea-tiempo-c__header__btn--left:hover
+  border-color: #feca2e
