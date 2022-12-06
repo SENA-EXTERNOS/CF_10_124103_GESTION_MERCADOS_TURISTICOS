@@ -101,7 +101,7 @@
       h2 3.3 Perfiles del viajero
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2.mb-5
+      .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='').img-flotante      
       .col-lg-8

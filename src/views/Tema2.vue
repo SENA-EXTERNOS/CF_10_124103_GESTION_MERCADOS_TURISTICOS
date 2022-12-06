@@ -23,7 +23,7 @@
       h2 2.1 Necesidades 
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2
+      .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img2.svg', alt='').img-flotante      
       .col-lg-10
@@ -120,7 +120,7 @@
       h2 2.3  Motivaciones 
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-3
+      .col-8.col-lg-3.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img11.svg', alt='').img-flotante      
       .col-lg-9
@@ -205,7 +205,7 @@
       h2 2.5 Tendencias y moda 
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2
+      .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img18.svg', alt='').img-flotante      
       .col-lg-10
@@ -325,7 +325,7 @@
       p Veamos a continuación las etapas que intervienen en la segmentación de mercados, enfocadas al sector turístico.
 
     .row.justify-content-center.my-5
-      .col-lg-6
+      .col-lg-6.mb-4
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Etapa 1")
             p En esta se debe dividir el mercado turístico por grupos o segmentos.

@@ -8,7 +8,7 @@
       h1 Técnicas de comunicación 
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2
+      .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='').img-flotante      
       .col-lg-6
@@ -154,7 +154,7 @@
       h2 1.2  Componentes 
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-3.mb-3
+      .col-8.col-lg-3.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img15.svg', alt='').img-flotante        
       .col-lg-7
@@ -211,7 +211,7 @@
       h2 1.4  Técnicas y herramientas
 
     .row.justify-content-center.my-5
-      .col-6.col-lg-2.mb-5
+      .col-6.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img17.svg', alt='').img-flotante        
       .col-lg-10
@@ -220,7 +220,7 @@
 
     .row.my-5
       figure
-        img(src='@/assets/curso/temas/tema1/img18.svg', alt='')    
+        img(src='@/assets/curso/temas/tema1/img18.png', alt='')    
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -236,8 +236,8 @@
             figure
               img(src="@/assets/curso/temas/tema1/img19.svg", alt="alt")
           .crd_hover_txt--body
-            h4.text-center.mb-3 Entrevista
-            p.text-center.mb-0 La entrevista es una técnica comunicativa utilizada en todos los entornos, tiene como finalidad dar a conocer e identificar las características principales de un proyecto, persona o cosa, para obtener un beneficio en específico.
+            h4.texto-negro.text-center.mb-3 Entrevista
+            p.texto-negro.text-center.mb-0 La entrevista es una técnica comunicativa utilizada en todos los entornos, tiene como finalidad dar a conocer e identificar las características principales de un proyecto, persona o cosa, para obtener un beneficio en específico.
 
       .col-lg-5.my-4
         .crd_hover_txt(data-aos="flip-left")
@@ -245,8 +245,8 @@
             figure
               img(src="@/assets/curso/temas/tema1/img20.svg", alt="alt")
           .crd_hover_txt--body
-            h4.text-center.mb-3 Eventos, reuniones, asambleas, seminarios.
-            p.text-center.mb-0 Todas estas técnicas abarcan la finalidad específica de reunir a un número de personas y brindarles información sobre cierto tema de interés, luego del cual se puede recibir su retroalimentación.
+            h4.texto-negro.text-center.mb-3 Eventos, reuniones, asambleas, seminarios.
+            p.texto-negro.text-center.mb-0 Todas estas técnicas abarcan la finalidad específica de reunir a un número de personas y brindarles información sobre cierto tema de interés, luego del cual se puede recibir su retroalimentación.
 
     separador
 
