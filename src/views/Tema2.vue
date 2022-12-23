@@ -196,7 +196,7 @@
                 img(src='@/assets/curso/temas/tema2/img17.svg', alt='')             
 
             .col-lg-10
-              p En la actualidad, tanto los prestadores de servicio como las empresas turísticas están manejando la experiencia turística como estrategia de marketing y mercadeo, donde promocionan el destino mediante experiencias redactadas por tales empresas o por personas que hayan realizado la visita a cierto lugar. También desarrollan crónicas narrativas enriquecidas con imágenes, donde cuentan las experiencias y las vivencias de manera poética, permitiendo al turista imaginarse la actividad o el atractivo al momento de leer la crónica.
+              p En la actualidad, tanto los prestadores de servicio como las empresas turísticas están manejando la experiencia turística como estrategia de #[i marketing] y mercadeo, donde promocionan el destino mediante experiencias redactadas por tales empresas o por personas que hayan realizado la visita a cierto lugar. También desarrollan crónicas narrativas enriquecidas con imágenes, donde cuentan las experiencias y las vivencias de manera poética, permitiendo al turista imaginarse la actividad o el atractivo al momento de leer la crónica.
 
     separador
 
@@ -338,7 +338,7 @@
             p Elaborar un producto turístico con relación al segmento.
             p #[strong Descripción de la etapa:] se diseña o se asocia un producto turístico (puede ser uno que ya esté elaborado), el cual cumpla con los rasgos del segmento, para llevar a cabo el posicionamiento del producto en el segmento turístico.
 
-          .row(numero="3" titulo="Etapa 4")
+          .row(numero="4" titulo="Etapa 4")
             p Elaborar un producto turístico con relación al segmento.
             p #[strong Descripción de la etapa:] se diseña o se asocia un producto turístico (puede ser uno que ya esté elaborado), el cual cumpla con los rasgos del segmento, para llevar a cabo el posicionamiento del producto en el segmento turístico.
  
