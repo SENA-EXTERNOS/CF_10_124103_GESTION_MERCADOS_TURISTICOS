@@ -299,7 +299,8 @@ export default {
     {
       referencia:
         'Libro | Kotler, P. & Armstrong, G. (2007) Re: <i>Principios de marketing.</i> Prentice Hall, São Paulo. ',
-      link: 'http://www.scielo.org.ar/pdf/eypt/v26n1/v26n1a04.pdf',
+      link:
+        'https://books.google.es/books?hl=es&lr=&id=86V4nK6j0vIC&oi=fnd&pg=PA1&dq=Princ%C3%ADpios+de+marketing+%2B+Kotler&ots=dX0NLpaeIk&sig=RxjZQeHh_Quow8o2gK0nranoA_I#v=onepage&q=Princ%C3%ADpios%20de%20marketing%20%2B%20Kotler&f=false',
     },
     {
       referencia:
