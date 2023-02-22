@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Revise la siguiente síntesis, la cual muestra los requerimientos que puede tener un turista cuando visita un lugar y resume las temáticas abordadas en el componente formativo ‘Requerimientos del turista’.
+    p Revise la siguiente síntesis, la cual muestra los requerimientos que puede tener un turista cuando visita un lugar y resume las temáticas abordadas en el componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

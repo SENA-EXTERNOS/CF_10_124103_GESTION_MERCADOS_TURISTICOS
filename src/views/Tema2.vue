@@ -14,21 +14,18 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img1.svg')})`}"
           )
           .bloque-texto-g1__texto.p-3
-            p.mb-0 En el turismo es importante tener en cuenta las necesidades y preferencias de las personas o visitantes al momento de viajar, lo cual le permite a cualquier prestador de servicio brindarle u ofertarle atractivos turísticos dependiendo sus necesidades, teniendo en cuenta las motivaciones que lo podrían incitar a viajar, así como también las experiencias que quisiera recibir al momento de visitar un lugar. Siempre se tienen en cuenta las tendencias del mercado turístico, permitiendo al prestador generar una segmentación de mercados y de servicios para el turista.
+            p.mb-0 En el turismo es importante tener presentes las necesidades y requerimientos de las personas o visitantes al momento de viajar, esto le permite a cualquier prestador de servicio brindarle u ofertarle atractivos turísticos dependiendo de sus preferencias, teniendo en cuenta las motivaciones que lo podrían incitar a viajar, así como también, las experiencias que quisiera recibir al momento de visitar un lugar. Siempre se toma en consideración las tendencias del mercado turístico, lo cual le permite al prestador generar una segmentación de mercados y de servicios enfocado en el turista.
 
     separador
-
-    #t_2_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.1 Necesidades 
+    h2(data-aos="fade-up-right") Necesidades 
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img2.svg', alt='').img-flotante      
       .col-lg-10
-        p Dependiendo de los hechos o las circunstancias que inciten a una persona a viajar, se determinan ciertas necesidades, las cuales son fundamentales para la estadía del turista en ciertos lugares. Los visitantes pueden crear aspectos específicos con relación a lo que están acostumbrados a realizar dentro de sus actividades cotidianas. 
-        p A continuación, veremos cómo se expresan las necesidades de una persona según la pirámide de Maslow.
+        p Dependiendo de los hechos o las circunstancias que inciten a una persona a viajar, se determinan ciertas necesidades que son fundamentales suplir para la estadía del turista en ciertos lugares, además, los visitantes pueden crear patrones nuevos y específicos con relación a lo que están acostumbrados a realizar dentro de sus actividades cotidianas.
+        p A continuación, veremos cómo se expresan las necesidades de una persona cuando va a viajar utilizando la pirámide de Maslow, según la cual, se puede explicar lo que impulsa las conductas del ser humano basado en sus necesidades:
 
     .row.justify-content-center.my-5
       .tarjeta--container.row.mb-5
@@ -57,20 +54,11 @@
           p.text-center De la seguridad del visitante se desprende una infinidad de productos relacionados con lo que esté acostumbrado a consumir o lo que esté dispuesto a hacer, dependiendo de las tarifas de servicio.
 
     separador
-
-    #t_2_2 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.2 Requerimientos 
+    h2(data-aos="fade-up-right") Requerimientos 
 
     .row.my-5
-      p Cuando se habla de los requerimientos necesarios para atender a un turista en un destino, atractivo o servicio turístico, se alude fundamentalmente a dos: las necesidades específicas acorde al destino y los requisitos que tenga el destino o atractivo a visitar.
-      p.mt-3 Estos requerimientos por lo general son documentos específicos necesarios para la estadía o la visita a un lugar, los cuales suelen encontrarse dentro de las políticas de territorio de un servicio turístico. 
-
-    .row.my-5
-      ul.lista-ul--color
-        li 
-          i.fas.fa-square.color-vineta
-          h4 Requerimientos del turista
+      p Cuando se habla de los requerimientos necesarios para la estadía de un turista en un destino, atractivo o servicio turístico, se alude fundamentalmente a dos: las necesidades específicas acorde al destino y los requisitos que tenga el destino o atractivo a visitar.
+      p.mt-3 Estos requerimientos, por lo general, son documentos específicos necesarios para la estadía o la visita a un lugar, los cuales suelen encontrarse dentro de las políticas del territorio de un servicio turístico; algunos de estos son:
 
     .row.justify-content-center.texto-blanco.my-5
       .col-8.col-lg-2.my-4
@@ -111,13 +99,10 @@
             figure
               img(src="@/assets/curso/temas/tema2/img10.svg", alt="alt")
           .crd_hover_txt--body2
-            p.texto-negro.text-center.text-bold.mt-4 Identificar los lazos y relaciones sociales del turista.
+            p.texto-negro.text-center.text-bold.mt-4 Identificar los lazos y/o relaciones sociales del turista en el destino.
 
     separador
-
-    #t_2_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.3  Motivaciones 
+    h2(data-aos="fade-up-right") Motivaciones 
 
     .row.justify-content-center.my-5
       .col-8.col-lg-3.mb-4
@@ -127,12 +112,6 @@
         p Cuando se habla de las motivaciones de los turistas, es indispensable resaltar la razón principal que impulsa a una persona a viajar, siempre teniendo en cuenta las necesidades en relación con la motivación, ya que esta afecta el ánimo que tenga la persona al momento de suplir la necesidad que lo lleva a viajar.
         p La motivación del turista también se encuentra relacionada con temas psicológicos que le permiten adquirir los beneficios para la salud mental. 
         p En el entorno turístico existen documentos cuyos autores agrupan las motivaciones de una manera similar, como lo son Dias & Cassar (2005, 126), con un pensamiento similar al de Kotler & Armstrong (2007, 1), quienes agrupan las motivaciones así:
-
-    .row.my-5
-      ul.lista-ul--color
-        li 
-          i.fas.fa-square.color-vineta
-          h4 Motivaciones del turista
 
     .row.my-5
       SlyderF(columnas="col-lg-6 col-xl-4")
@@ -165,18 +144,15 @@
           p.text-center Que permiten que el individuo sea reconocido y apreciado.
 
     separador
+    h2(data-aos="fade-up-right") Experiencias 
 
-    #t_2_4
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.4 Experiencias 
+    .row.my-3
+      p Las experiencias son el resultado y la base fundamental del turismo; es decir, la mayoría de las empresas turísticas y los prestadores de servicios se basan en la generación de experiencias al momento de iniciar o prestar un servicio y, además, convierten la experiencia en la finalidad del servicio.
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-3
       .col-lg-8
         .cajon.color-acento-contenido.p-3
-          p A continuación, se describen aspectos relacionados con las experiencias turísticas y su concepto.   
-
-    .row.my-5
-      p Las experiencias son el resultado y la base fundamental del turismo; es decir, la mayoría de las empresas turísticas y los prestadores de servicios se basan en la generación de experiencias al momento de iniciar o prestar un servicio, y además, convierten la experiencia en la finalidad del servicio. 
+          p A continuación, se describen aspectos relacionados con las experiencias turísticas y su concepto:
 
     .row.justify-content-center.my-5
       TabsA.color-acento-contenido
@@ -199,10 +175,7 @@
               p En la actualidad, tanto los prestadores de servicio como las empresas turísticas están manejando la experiencia turística como estrategia de #[i marketing] y mercadeo, donde promocionan el destino mediante experiencias redactadas por tales empresas o por personas que hayan realizado la visita a cierto lugar. También desarrollan crónicas narrativas enriquecidas con imágenes, donde cuentan las experiencias y las vivencias de manera poética, permitiendo al turista imaginarse la actividad o el atractivo al momento de leer la crónica.
 
     separador
-
-    #t_2_5
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.5 Tendencias y moda 
+    h2(data-aos="fade-up-right") Tendencias y moda 
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.mb-4
@@ -227,7 +200,7 @@
           .row
             .col-md-7.mb-4.mb-md-0
               h4 Herramientas electrónicas y cibernéticas
-              p Ahora bien, las tendencias y las modas en el turismo se ven influenciadas en la actualidad gracias a las herramientas electrónicas y cibernéticas que existen, mediante las cuales se generan imaginarios en las personas, que influyen en su toma de decisiones al momento de realizar un viaje y que varían dependiendo del interés de las personas y la época del año.
+              p Las tendencias y las modas en el turismo se ven influenciadas en la actualidad debido al uso de las herramientas electrónicas y cibernéticas que existen, mediante las cuales se generan imaginarios en las personas, influyendo en la toma de decisiones al momento de realizar un viaje y varían dependiendo del interés de las personas y la época del año.
 
             .col-md-5
               figure
@@ -236,7 +209,7 @@
           .row
             .col-md-7.mb-4.mb-md-0
               h5 Tipos de turismo 
-              p Cabe resaltar que las modas y las tendencias varían según el tipo de turismo, ya que en cada tipología existen ideas innovadoras que le permiten renovarse y adecuarse a la oferta y a la demanda actual.
+              p Cabe resaltar que las modas y las tendencias varían según el tipo de turismo, ya que, para cada tipología, existen ideas innovadoras que le permite renovarse y adecuarse a la oferta y a la demanda actual.
 
             .col-md-5
               figure
@@ -245,20 +218,17 @@
           .row
             .col-md-7.mb-4.mb-md-0
               h5 Estacionalidad de los países
-              p También la moda varía dependiendo el destino y la estacionalidad de los países. Es decir, ciertos destinos nacionales se ponen de moda durante un lapso de tiempo, lo mismo pasa con los destinos internacionales, los cuales aumentan su concurrencia dependiendo de la estación o época del año.
+              p También la moda varía dependiendo del destino y la estacionalidad de los países. Es decir, ciertos destinos nacionales se ponen de moda durante un lapso de tiempo, lo mismo pasa con los destinos internacionales, los cuales aumentan su concurrencia dependiendo de la estación o época del año.
 
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tema2/img22.svg', alt='')  
 
     separador
-
-    #t_2_6
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.6  Costumbres y cultura 
+    h2(data-aos="fade-up-right") Costumbres y cultura 
 
     .row.my-5
-      p Teniendo en cuenta que existen diversidad de turistas con diferentes prioridades al momento de realizar un viaje, también se pueden encontrar turistas cuyos requerimientos se basan en conocer nuevas culturas y costumbres diferentes.
+      p Teniendo en cuenta que existe diversidad de turistas con diferentes prioridades al momento de realizar un viaje, se pueden encontrar algunos cuyos requerimientos se basan en conocer nuevas culturas y costumbres diferentes.
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -271,10 +241,7 @@
             p.mt-3 Dentro de las costumbres se pueden encontrar todos los escenarios turísticos que hacen parte del recurso cultural intangible, como festivales que se celebran en determinadas líneas del tiempo. Por lo general, las costumbres tienen un trasfondo social, ya sea positivo o negativo.
 
     separador
-
-    #t_2_7
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.7 Técnicas de segmentación 
+    h2(data-aos="fade-up-right") Técnicas de segmentación 
 
     .row.my-5
       p A continuación, se describen algunos aspectos que se deben considerar al momento de segmentar un mercado.
@@ -288,7 +255,7 @@
                 img(src='@/assets/curso/temas/tema2/img24.svg', alt='').img24-a-27-t2
             .col-lg-7
               h5 Objetivos de viaje
-              p Lo primero que se debe tener en cuenta para realizar una segmentación son los objetivos principales por los que se realiza, al igual que tener definido el mercado en donde se realizará la segmentación, es decir, el mercado turístico para este caso.        
+              p Lo primero que se debe tener en cuenta para realizar una segmentación son los objetivos principales por los que se realiza el viaje, al igual que tener definido el mercado en donde se realizará la segmentación, es decir, el mercado turístico, para este caso.
 
         .tarjeta--rosa2.p-3
           .row
@@ -297,7 +264,7 @@
                 img(src='@/assets/curso/temas/tema2/img25.svg', alt='').img24-a-27-t2
             .col-lg-7
               h5 Mercado turístico
-              p Cuando se habla de segmentación, es válido recordar que esta es una acción que permite dividir el mercado turístico en diferentes segmentos o grupos, con la necesidad de dar un enfoque diferente a cada uno.
+              p Los mercados turísticos se generan a partir de la diversidad cultural que existe en las diferentes regiones de los países, donde las personas de cada región adquieren necesidades y gustos diferentes al momento de viajar.
 
         .tarjeta--rosa1.p-3
           .row
@@ -306,7 +273,7 @@
                 img(src='@/assets/curso/temas/tema2/img26.svg', alt='').img24-a-27-t2
             .col-lg-7
               h5 Segmentación de mercados
-              p La segmentación de mercados turísticos se genera a partir de la diversidad cultural que existe en las diferentes regiones de los países, donde las personas de cada región adquieren necesidades y gustos diferentes al momento de viajar.
+              p Cuando se habla de segmentación, es válido recordar que esta es una acción que permite dividir el mercado turístico en diferentes segmentos o grupos, con la posibilidad de dar un enfoque diferente a cada uno.
 
         .tarjeta--rosa4.p-3
           .row
@@ -330,17 +297,18 @@
           .row(numero="1" titulo="Etapa 1")
             p En esta se debe dividir el mercado turístico por grupos o segmentos.
             p #[strong Descripción de la etapa:] los segmentos pueden ser divididos de manera geográfica, demográfica o psicográfica.
+          
           .row(numero="2" titulo="Etapa 2")
             p Se selecciona un segmento en específico.
-            p #[strong Descripción de la etapa:] dependiendo los rasgos elegidos al momento de la segmentación, se selecciona un segmento objetivo.
+            p #[b Descripción de la etapa:]  dependiendo de los rasgos elegidos al momento de la segmentación, se selecciona un segmento objetivo.
 
           .row(numero="3" titulo="Etapa 3")
             p Elaborar un producto turístico con relación al segmento.
             p #[strong Descripción de la etapa:] se diseña o se asocia un producto turístico (puede ser uno que ya esté elaborado), el cual cumpla con los rasgos del segmento, para llevar a cabo el posicionamiento del producto en el segmento turístico.
 
           .row(numero="4" titulo="Etapa 4")
-            p Elaborar un producto turístico con relación al segmento.
-            p #[strong Descripción de la etapa:] se diseña o se asocia un producto turístico (puede ser uno que ya esté elaborado), el cual cumpla con los rasgos del segmento, para llevar a cabo el posicionamiento del producto en el segmento turístico.
+            p Promoción y comercialización del producto turístico dentro del segmento.
+            p #[b Descripción de la etapa:] realizar el desarrollo y la comercialización del producto turístico dentro del segmento.
  
       .col-6.col-lg-4
         figure

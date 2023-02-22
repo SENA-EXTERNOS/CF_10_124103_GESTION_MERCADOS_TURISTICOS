@@ -12,17 +12,17 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='').img-flotante      
       .col-lg-6
-        p La comunicación tiene gran relevancia en el entorno turístico debido a que es uno de los motores principales de crecimiento, permite transmitir mensajes, señales, vivencias y experiencias fundamentales para el turismo. 
+        p La comunicación tiene gran relevancia en el entorno turístico debido a que es uno de los motores principales de crecimiento, permite difundir mensajes y facilita la transmisión de conocimientos en los diferentes aspectos de una cultura o región.
 
     .row.my-5
-      p La comunicación permite la transmisión de conocimientos en los diferentes aspectos culturales necesarios para la conservación de la identidad cultural, de todas las personas que forman parte de un territorio en específico.
+      p Existen diferentes técnicas de comunicación que posibilitan que los mensajes se transfieran con fluidez al receptor. Explore a continuación la importancia de esto en el turismo:
 
     .row.justify-content-center.my-5
       .tarjeta.slyderA_bg_01.p-5
         SlyderA(tipo="b")
           .row
             .col-md-7.mb-4.mb-md-0
-              p La comunicación tiene gran relevancia en el entorno turístico debido a que es uno de los motores principales de crecimiento, permite transmitir mensajes, señales, vivencias y experiencias fundamentales para el turismo, pues aplica tanto para la promoción turística, como para la transmisión de conocimientos en los diferentes aspectos culturales necesarios para la conservación de la identidad cultural de todas las personas que forman parte de un territorio en específico.
+              p La comunicación tiene gran relevancia en el entorno turístico debido a que es uno de los propulsores de crecimiento, permite transmitir mensajes, señales, vivencias y experiencias, esto es fundamental, pues se aplica tanto para la promoción turística, como para la transmisión de conocimientos en los diferentes aspectos culturales, necesarios para la conservación de la identidad cultural de todas las personas que forman parte de un territorio.
 
             .col-md-5
               figure
@@ -38,17 +38,14 @@
 
           .row
             .col-md-7.mb-4.mb-md-0
-              p Es de gran importancia la implementación de las características comunicativas en los diferentes entornos turísticos, teniendo en cuenta siempre los actores claves de cada sitio, al igual que al visitante o turista que lo frecuenta. 
+              p Es de gran importancia la implementación de las características comunicativas en los diferentes entornos turísticos, teniendo en cuenta siempre los factores claves de cada sitio, al igual que al visitante o turista que lo frecuenta.
 
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tema1/img4.svg', alt='')  
 
     separador
-
-    #t_1_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.1 Características
+    h2(data-aos="fade-up-right") Características
 
     .row.my-5
       p Generalmente la comunicación se deriva de una conversación que se puede llevar a cabo de manera verbal o no verbal, esto depende de la tipología que se considere emplear.
@@ -91,7 +88,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img11.svg')})`}"
           )
           .bloque-texto-g1__texto.p-4
-            p.mb-0 Teniendo en cuenta las dos tipologías empleadas para la buena comunicación en el entorno turístico, resulta necesario identificar o definir las características puntuales para la aplicabilidad comunicativa del turismo. Este sector económico se caracteriza por la comunicación, teniendo en cuenta la motivación de la persona y los recursos naturales o culturales donde se emplee.
+            p.mb-0 Teniendo en cuenta las tipologías empleadas para la buena comunicación en el entorno turístico, resulta necesario identificar o definir las características puntuales para su aplicación. Este sector económico se caracteriza por la comunicación, teniendo en cuenta la relación entre la motivación de la persona y los recursos naturales o culturales donde se emplee.
 
     .row.my-5
       p La comunicación en el turismo se clasifica en: 
@@ -148,10 +145,7 @@
                   | Para finalizar, el mensaje debe tener una retroalimentación o un intercambio de ideas.
 
     separador
-
-    #t_1_2   
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.2  Componentes 
+    h2(data-aos="fade-up-right") Componentes 
 
     .row.justify-content-center.my-5
       .col-8.col-lg-3.mb-4
@@ -159,7 +153,7 @@
           img(src='@/assets/curso/temas/tema1/img15.svg', alt='').img-flotante        
       .col-lg-7
         p Existen varios elementos de estructura necesarios a la hora de establecer una comunicación asertiva entre dos o más personas, pues permiten una intención comunicativa concreta y efectiva del mensaje, el cual suele ser procesado mediante una cadena circunstancial.
-        p Los componentes de comunicación son los siguientes:
+        p Los componentes de la comunicación son los siguientes:
 
     .row.justify-content-center
       .col-lg-8
@@ -190,10 +184,7 @@
           img(src='@/assets/curso/temas/tema1/img16.svg', alt='') 
 
     separador
-
-    #t_1_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.3  Errores de la comunicación
+    h2(data-aos="fade-up-right") Errores de la comunicación
 
     .row.my-5
       p La comunicación es vital para el entendimiento de los seres humanos en cualquier campo de acción o ámbito de la vida, sin embargo, usualmente se incurre en algunos errores que dificultan su normal desarrollo. 
@@ -205,10 +196,7 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
-
-    #t_1_4
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.4  Técnicas y herramientas
+    h2(data-aos="fade-up-right") Técnicas y herramientas
 
     .row.justify-content-center.my-5
       .col-6.col-lg-2.mb-4
@@ -224,10 +212,10 @@
 
     .row.justify-content-center.my-5
       .col-lg-8
-        p La comunicación es un proceso complejo mediante el cual se trata de diseñar o elaborar técnicas y herramientas que le permitan a las diferentes personas comunicarse entre sí, y cuya finalidad es ser desarrollada en los diferentes entornos sociales o comunicativos que permitan una relación intersocial adecuada para la concertación de diversos temas.
+        p La comunicación es un proceso complejo mediante el cual se trata de diseñar o elaborar técnicas y herramientas que le permitan a las personas comunicarse entre sí y cuya finalidad es ser desarrollada en los diferentes entornos sociales o comunicativos, que permitan una relación intersocial adecuada para la concertación de diversos temas.
 
     .row.my-5
-      p Dentro del campo comunicativo se encuentran diferentes herramientas que permiten una comunicación más concreta, a saber:
+      p Dentro del campo comunicativo se encuentran diferentes técnicas que permiten una comunicación más concreta:
 
     .row.justify-content-center.texto-blanco.my-5
       .col-lg-5.my-4
@@ -249,10 +237,7 @@
             p.texto-negro.text-center.mb-0 Todas estas técnicas abarcan la finalidad específica de reunir a un número de personas y brindarles información sobre cierto tema de interés, luego del cual se puede recibir su retroalimentación.
 
     separador
-
-    #t_1_5
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.5  Atención al cliente
+    h2(data-aos="fade-up-right") Atención al cliente
 
     .row.my-5
       p La atención al cliente es catalogada como punto clave en el entorno turístico, de ella se generan experiencias y vivencias que profundizan en las acciones que toman los prestadores de servicio. 
@@ -264,7 +249,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img21.svg')})`}"
           )
           .bloque-texto-g1__texto.p-3
-            p.mb-0 En la actualidad, las empresas buscan darle un enfoque directo al servicio al cliente priorizando al cliente externo, esto puede llegar a ocasionar conflictos dentro de la organización en caso de que no sea bien utilizado. Es importante tener en cuenta que el servicio o atención al cliente es una estrategia de marketing diseñada y desarrollada por diferentes empresas, la cual pretende una fidelización de clientes.
+            p.mb-0 En la actualidad, las empresas buscan darle un enfoque directo al servicio al cliente priorizando al cliente externo, esto puede llegar a ocasionar conflictos dentro de la organización en caso de que no sea bien utilizado. Es importante tener en cuenta que el servicio o atención al cliente es una estrategia de #[i marketing] diseñada y desarrollada por diferentes empresas, la cual pretende una fidelización de clientes.
 
 
 

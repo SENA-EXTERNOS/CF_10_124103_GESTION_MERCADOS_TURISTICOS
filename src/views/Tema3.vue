@@ -21,10 +21,7 @@
               i.fas.fa-quote-right.color-vineta
 
     separador
-
-    #t_3_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.1 Tipologías
+    h2(data-aos="fade-up-right") Tipologías de los viajeros
 
     .row.justify-content-center.my-5
       .col-8.col-lg-3.mb-4
@@ -33,12 +30,6 @@
       .col-lg-9
         p Las tipologías del viajero varían dependiendo de las actividades que deseen realizar durante su viaje. También van ligadas, desde un inicio, a la motivación que los impulse a visitar un destino.
         p Cada persona varía sus preferencias al momento de viajar, ya sea por una profesión en específico o por un pasatiempo que quiera realizar; dependiendo de esto planean y realizan su viaje. Durante años se han venido forjando tipologías de viajeros específicas, que facilitan la categorización del planificador turístico a la hora de ofrecer un producto. Algunas tipologías de viajeros son:
-
-    .row.my-5
-      ul.lista-ul--color
-        li 
-          i.fas.fa-square.color-vineta
-          h4 Tipologías de los viajeros
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -60,19 +51,10 @@
             p Este tipo de viajero, como su nombre lo indica, realiza sus viajes para experimentar y probar nuevos sabores, su principio fundamental se basa en viajar para probar comida.
 
     separador
-
-    #t_3_2 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.2 Criterios de clasificación 
+    h2(data-aos="fade-up-right") Criterios de clasificación de viajeros 
 
     .row.my-5
       p Los criterios para clasificar a los viajeros son necesarios para distinguir sus objetivos, y de allí partir a la clasificación de estos. Se pueden clasificar así:
-
-    .row.my-3
-      ul.lista-ul--color
-        li 
-          i.fas.fa-square.color-vineta
-          h4 Criterios de clasificación de viajeros
 
     .row.justify-content-center.my-3
       TabsA.color-acento-contenido
@@ -95,17 +77,14 @@
               p En este caso, las personas que realizan un viaje lo hacen para seguir un estilo de vida. Las personas de esta clasificación tienen un prototipo de vida que cumple con estándares de calidad, el cual deben seguir a la hora de realizar un viaje, independientemente de cuál sea su destino.
 
     separador
-
-    #t_3_3 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.3 Perfiles del viajero
+    h2(data-aos="fade-up-right") Perfiles del viajero
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='').img-flotante      
       .col-lg-8
-        p Los perfiles del viajero están relacionados con las posturas que toma una persona a la hora de realizar su viaje. Estos lineamientos dependen tanto de la clasificación de la persona que va a viajar como también de las tipologías turísticas que influyen en la manera de ver el destino.
+        p El perfil del viajero se relaciona con las posturas que toma una persona a la hora de realizar su viaje. Estos lineamientos dependen tanto de la clasificación de la persona que va a viajar, como también de las tipologías turísticas, que influyen en la manera de ver el destino.
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -116,7 +95,10 @@
           .bloque-texto-g1__texto.p-3
             p.mb-0 Teniendo en cuenta lo mencionado anteriormente, se puede deducir el perfil de viajero mediante herramientas informativas, las cuales consultan datos de valor, como la locación donde reside y a dónde viaja frecuentemente, la estancia que puede durar o pernoctar en el destino, el tipo de alojamiento que incluye en la mayoría de sus viajes, la intención del viaje y los motivos o atributos a la hora de tomar la decisión de viaje.
 
-    .titulo-sexto.color-acento-contenido.my-5
+    .row
+      p En la siguiente tabla se expone un ejemplo de esto:
+    
+    .titulo-sexto.color-acento-contenido.my-3
       h5 Tabla 1.
       span Perfiles de viajeros
 
@@ -151,10 +133,7 @@
             td Viajero recreacional.
   
     separador
-
-    #t_3_4
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.4 Técnicas de definición del interés del turista
+    h2(data-aos="fade-up-right") Técnicas de definición del interés del turista
 
     .row.justify-content-center.my-5
       .col-8.col-lg-3.mb-4
@@ -173,10 +152,10 @@
             | Caracterizar o segmentar los visitantes por nacionalidad, edad y género.
           li 
             i
-            | Definir una fecha para la toma de datos, ya que el interés del turista puede variar dependiendo la estacionalidad.
+            | Definir una fecha para la toma de datos, ya que el interés del turista puede variar dependiendo de la estacionalidad.
           li 
             i
-            |Determinar el perfil del viajero y el tiempo de estancia en el destino. 
+            | Determinar el perfil del viajero y el tiempo de estancia en el destino. 
           li 
             i
             | Analizar aspectos como concurrencia y fidelización del destino en el que esté identificado el interés del turista.
@@ -191,13 +170,10 @@
             | Determinar los gustos e intereses dependiendo servicios turísticos y atractivos.
 
     separador
-
-    #t_3_5
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.5 Orientación y atención 
+    h2(data-aos="fade-up-right") Orientación y atención 
 
     .row.my-5
-      p La orientación turística o la orientación al viajero tiene gran importancia en el sector turístico, ya que no solo se trata de vender o promocionar atractivos o destinos turísticos, también los prestadores de servicios y colaboradores tienen la obligación de disponer sus conocimientos y guías culturales a los visitantes del destino. Adicionalmente, se encuentran la obligación de realizar estudios comportamentales de culturas diferentes al destino y los impactos que pueden generar en la población nativa.
+      p La orientación turística o la orientación al viajero tiene gran importancia, ya que no solo se trata de vender o promocionar atractivos o destinos turísticos, también los prestadores de servicios y colaboradores, tienen la obligación de disponer sus conocimientos y guías culturales a los visitantes del destino. Adicionalmente, tienen la obligación de realizar estudios comportamentales de culturas diferentes al destino y los impactos que pueden generar en la población nativa.
 
     .row.justify-content-center.my-5
       .col-6.col-lg-2
@@ -205,7 +181,7 @@
             img(src='@/assets/curso/temas/tema3/img8.svg', alt='')
       .col-lg-8
         .cajon.color-acento-contenido.p-4
-          p La orientación turística se encarga de la sensibilización del visitante al momento de ingresar a un lugar, añadiéndole un valor agregado, el cual no afecte el entorno cultural o natural donde se encuentre. Puede ser necesario diseñar un instructivo que sirva como herramienta de atención y prevención en los lugares visitados; además de esto, se debe brindar un mapa con las recomendaciones necesarias que se deben tener en cuenta en el lugar visitado.
+          p La orientación turística se encarga de la sensibilización del visitante al momento de ingresar a un lugar, añadiéndole un valor agregado el cual no afecte el entorno cultural o natural donde se encuentre. Puede ser necesario diseñar un instructivo que sirva como herramienta de atención y prevención en los lugares visitados; además de esto, se debe brindar un mapa con las recomendaciones necesarias que se deben tener en cuenta.
 
         .bloque-texto-b1.color-secundario.p-4
           .bloque-texto-b__texto

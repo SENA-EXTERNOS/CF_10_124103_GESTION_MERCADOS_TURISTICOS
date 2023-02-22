@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Requerimientos del turista',
     descripcionCurso:
-      'En este componente formativo se presentarán los diferentes puntos o requerimientos que tiene un turista al momento de visitar un destino, de manera que se pueda perfilar los viajeros de acuerdo con los elementos turísticos, además de incluir las técnicas de comunicación que son una gran herramienta para el turismo actual y los posibles errores que se pueden presentar.',
+      'En este componente formativo se presentarán los requerimientos que tiene un turista al momento de visitar un destino, los cuales promueven la perfilación de los viajeros, de acuerdo con los elementos turísticos. Además, se incluyen las técnicas de comunicación, que son una gran herramienta para el turismo actual y los posibles errores que se pueden presentar.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -35,38 +35,6 @@ export default {
         numero: '1',
         titulo: 'Técnicas de comunicación ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Componentes ',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Errores de la comunicación',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Técnicas y herramientas',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Atención al cliente',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -75,50 +43,6 @@ export default {
         numero: '2',
         titulo: 'Requerimientos según el turista',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Necesidades ',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Requerimientos  ',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motivaciones ',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Experiencias ',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Tendencias y moda ',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Costumbres y cultura ',
-            hash: 't_2_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.7',
-            titulo: 'Técnicas de segmentación ',
-            hash: 't_2_7',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -126,38 +50,6 @@ export default {
         numero: '3',
         titulo: 'Viajero',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipologías',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Criterios de clasificación ',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Perfiles del viajero',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Técnicas de definición del interés del turista',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Orientación y atención',
-            hash: 't_3_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
