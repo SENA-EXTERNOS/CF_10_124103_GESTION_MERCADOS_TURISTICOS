@@ -203,16 +203,13 @@
         figure
           img(src='@/assets/curso/temas/tema1/img17.svg', alt='').img-flotante        
       .col-lg-10
-        p La comunicación es un proceso complejo mediante el cual se trata de diseñar o elaborar técnicas y herramientas que le permitan a las diferentes personas comunicarse entre sí, y cuya finalidad es ser desarrollada en los diferentes entornos sociales o comunicativos que permitan una relación intersocial adecuada para la concertación de diversos temas.
+        p La comunicación es un proceso complejo mediante el cual se trata de diseñar o elaborar técnicas y herramientas que le permitan a las personas comunicarse entre sí y cuya finalidad es ser desarrollada en los diferentes entornos sociales o comunicativos, que permitan una relación intersocial adecuada para la concertación de diversos temas.
+
         p En el momento en que se habla de herramientas comunicativas, es necesario precisar que son usadas por todas las personas para su comunicación diaria, dependiendo de su motivación laboral o personal, bien sea a través de computadores, dispositivos móviles y aplicativos como:
 
     .row.my-5
       figure
-        img(src='@/assets/curso/temas/tema1/img18.png', alt='')    
-
-    .row.justify-content-center.my-5
-      .col-lg-8
-        p La comunicación es un proceso complejo mediante el cual se trata de diseñar o elaborar técnicas y herramientas que le permitan a las personas comunicarse entre sí y cuya finalidad es ser desarrollada en los diferentes entornos sociales o comunicativos, que permitan una relación intersocial adecuada para la concertación de diversos temas.
+        img(src='@/assets/curso/temas/tema1/img18.svg', alt='')    
 
     .row.my-5
       p Dentro del campo comunicativo se encuentran diferentes técnicas que permiten una comunicación más concreta:
