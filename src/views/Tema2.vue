@@ -61,44 +61,44 @@
       p.mt-3 Estos requerimientos, por lo general, son documentos específicos necesarios para la estadía o la visita a un lugar, los cuales suelen encontrarse dentro de las políticas del territorio de un servicio turístico; algunos de estos son:
 
     .row.justify-content-center.texto-blanco.my-5
-      .col-8.col-lg-2.my-4
+      .col-8.col-lg-4.my-4
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img6.svg", alt="alt")
-          .crd_hover_txt--body2
+          .crd_hover_txt--body2.p-4
             p.texto-negro.text-center.text-bold.mt-5 Definir el motivo y objetivo del viaje.
 
-      .col-8.col-lg-2.my-4
+      .col-8.col-lg-4.my-4
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img7.svg", alt="alt")
-          .crd_hover_txt--body2
+          .crd_hover_txt--body2.p-4
             p.texto-negro.text-center.text-bold.mt-4 Contar con permiso fronterizo o visa, dependiendo del lugar.
 
-      .col-8.col-lg-2.my-4
+      .col-8.col-lg-4.my-4
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img8.svg", alt="alt")
-          .crd_hover_txt--body2
+          .crd_hover_txt--body2.p-4
             p.texto-negro.text-center.text-bold.mt-4 Contar con pasaporte y documentos de identidad.
 
-      .col-8.col-lg-2.my-4
+      .col-8.col-lg-4.my-4
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img9.svg", alt="alt")
-          .crd_hover_txt--body2
+          .crd_hover_txt--body2.p-4
             p.texto-negro.text-center.text-bold.mt-3 Contar con la solvencia económica necesaria para el ingreso a un destino.
 
-      .col-8.col-lg-2.my-4
+      .col-8.col-lg-4.my-4
         .crd_hover_txt2(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img10.svg", alt="alt")
-          .crd_hover_txt--body2
+          .crd_hover_txt--body2.p-4
             p.texto-negro.text-center.text-bold.mt-4 Identificar los lazos y/o relaciones sociales del turista en el destino.
 
     separador

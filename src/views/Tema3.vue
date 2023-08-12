@@ -57,24 +57,25 @@
       p Los criterios para clasificar a los viajeros son necesarios para distinguir sus objetivos, y de allí partir a la clasificación de estos. Se pueden clasificar así:
 
     .row.justify-content-center.my-3
-      TabsA.color-acento-contenido
-        .tarjeta.tarjeta--rosa.p-5(titulo="Dependiendo de su actividad")
-          .row.justify-content-center
-            .col-5.col-lg-2.mb-3
-              figure
-                img(src='@/assets/curso/temas/tema3/img3.svg', alt='')    
+      .col-10.col-sm-11
+        TabsC.color-acento-contenido
+          .tarjeta.tarjeta--rosa.px-4.mb-3(titulo="Dependiendo de su actividad")
+            .row.justify-content-center
+              .col-5.col-lg-2.my-4
+                figure
+                  img(src='@/assets/curso/temas/tema3/img3.svg', alt='')    
 
-            .col-lg-10
-              p En este caso, las personas que realizan un viaje lo hacen con base en una necesidad relacionada con su actividad recreativa, laboral y emocional.
+              .col-lg-10.my-4
+                p En este caso, las personas que realizan un viaje lo hacen con base en una necesidad relacionada con su actividad recreativa, laboral y emocional.
 
-        .tarjeta.tarjeta--rosa.p-5(titulo="Dependiendo de su estilo de vida")
-          .row.justify-content-center
-            .col-7.col-lg-2.mb-3
-              figure
-                img(src='@/assets/curso/temas/tema3/img4.svg', alt='')             
+          .tarjeta.tarjeta--rosa.px-4.mb-3(titulo="Dependiendo de su estilo de vida")
+            .row.justify-content-center
+              .col-7.col-lg-2.my-4
+                figure
+                  img(src='@/assets/curso/temas/tema3/img4.svg', alt='')             
 
-            .col-lg-10
-              p En este caso, las personas que realizan un viaje lo hacen para seguir un estilo de vida. Las personas de esta clasificación tienen un prototipo de vida que cumple con estándares de calidad, el cual deben seguir a la hora de realizar un viaje, independientemente de cuál sea su destino.
+              .col-lg-10.my-4
+                p En este caso, las personas que realizan un viaje lo hacen para seguir un estilo de vida. Las personas de esta clasificación tienen un prototipo de vida que cumple con estándares de calidad, el cual deben seguir a la hora de realizar un viaje, independientemente de cuál sea su destino.
 
     separador
     h2(data-aos="fade-up-right") Perfiles del viajero

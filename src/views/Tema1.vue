@@ -215,21 +215,21 @@
       p Dentro del campo comunicativo se encuentran diferentes técnicas que permiten una comunicación más concreta:
 
     .row.justify-content-center.texto-blanco.my-5
-      .col-lg-5.my-4
+      .col-lg-6.my-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema1/img19.svg", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.p-4
             h4.texto-negro.text-center.mb-3 Entrevista
             p.texto-negro.text-center.mb-0 La entrevista es una técnica comunicativa utilizada en todos los entornos, tiene como finalidad dar a conocer e identificar las características principales de un proyecto, persona o cosa, para obtener un beneficio en específico.
 
-      .col-lg-5.my-4
+      .col-lg-6.my-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema1/img20.svg", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.p-4
             h4.texto-negro.text-center.mb-3 Eventos, reuniones, asambleas, seminarios.
             p.texto-negro.text-center.mb-0 Todas estas técnicas abarcan la finalidad específica de reunir a un número de personas y brindarles información sobre cierto tema de interés, luego del cual se puede recibir su retroalimentación.
 
