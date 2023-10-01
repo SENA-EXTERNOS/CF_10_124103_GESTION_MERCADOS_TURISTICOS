@@ -101,7 +101,7 @@ export default {
   },
   complementario: [
     {
-      tema: '1.5 Atención al cliente.',
+      tema: 'Atención al cliente.',
       referencia:
         'Villacis, J. L. R. (2018). La calidad del servicio y satisfacción del cliente: binomio clave en agencias de viajes en Ecuador. <i>Revista Memoralia,</i> (15), 128-139.',
       tipo: 'Artículo',
@@ -109,21 +109,21 @@ export default {
         'http://revistas.unellez.edu.ve/index.php/rmemoralia/article/view/777 ',
     },
     {
-      tema: '2.3 motivaciones',
+      tema: 'motivaciones',
       referencia:
         'Pereira, G. A., & Gosling, M. (2017). Los viajeros y sus motivaciones: Un estudio exploratorio sobre quienes aman viajar. <i>Estudios y perspectivas en turismo,</i> 26 (1), 62-85. ',
       tipo: 'Investigación ',
       link: 'http://www.scielo.org.ar/pdf/eypt/v26n1/v26n1a04.pdf ',
     },
     {
-      tema: '3. viajero.',
+      tema: 'viajero.',
       referencia:
         'La Barbera, M. (2016). Interseccionalidad, un “concepto viajero”: orígenes, desarrollo e implementación en la Unión Europea. <i>INTER disciplina,</i> 4(8). ',
       tipo: 'Artículo ',
       link: 'http://revistas.unam.mx/index.php/inter/article/view/54971/48820',
     },
     {
-      tema: '4. seguridad',
+      tema: 'seguridad',
       referencia:
         'Sarabia Tipán, D. M. (2019). <i>Diseño definitivo del camino vecinal Boca del Sucio-Las Delicias-San Salvador, ubicado en la parroquia San Gregorio, del cantón Muisne, de la provincia de Esmeraldas.</i> (Tesis de licenciatura). ',
       tipo: 'Investigación',

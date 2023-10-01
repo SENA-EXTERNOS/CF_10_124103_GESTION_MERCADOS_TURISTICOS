@@ -94,7 +94,7 @@
         .cajon.color-primario.p-4
           h3 Protocolos
           p Los protocolos son elementos que se deben tener en cuenta en todos los aspectos de seguridad. Estos involucran medidas y pasos a seguir teniendo en cuenta cada elemento mencionado anteriormente.
-          p Los protocolos de seguridad deben ser desarrollados por cada uno de los gestores turísticos de los que dependa cada aspecto, es Los protocolos de seguridad deben ser desarrollados por cada uno de los gestores turísticos de los que dependa cada aspecto, es decir que cada aspecto de seguridad debe ejecutar sus protocolos relacionándolos con los turistas y con la población local de cada destino; deben contar con una estructura formativa de protocolos, los cuales han sido desarrollados por cada entidad con el fin de velar por la seguridad e integridad de la vida de las personas.
+          p Los protocolos de seguridad deben ser desarrollados por cada uno de los gestores turísticos de los que dependa cada aspecto, es decir que cada aspecto de seguridad debe ejecutar sus protocolos relacionándolos con los turistas y con la población local de cada destino; deben contar con una estructura formativa de protocolos, los cuales han sido desarrollados por cada entidad con el fin de velar por la seguridad e integridad de la vida de las personas.
 
     .row.my-5
       p Para llevar a cabo los protocolos de seguridad es necesario:

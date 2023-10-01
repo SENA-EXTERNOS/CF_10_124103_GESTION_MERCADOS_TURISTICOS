@@ -17,7 +17,7 @@
           .bloque-texto-b.color-bloque-texto.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left.color-vineta
-              p “Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración”. (párr. 2).
+              p Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración. (párr. 2).
               i.fas.fa-quote-right.color-vineta
 
     separador
