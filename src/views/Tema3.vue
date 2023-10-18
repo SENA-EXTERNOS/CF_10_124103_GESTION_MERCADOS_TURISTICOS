@@ -7,11 +7,11 @@
         span 3
       h1 Viajero
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-2
       .col-lg-10
         p En el turismo se encuentran terminologías asociadas y entrelazadas con diferentes nombres, pero que pueden abarcar significados similares. Un ejemplo son los términos ‘turista’, ‘viajero’ y ‘visitante’, pues pueden contener o relacionar acciones similares, pero su significado varía dependiendo del contexto en el que se encuentre.      
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.mb-0
       .col-lg-8
         p Según la #[strong OMT] (2008)
           .bloque-texto-b.color-bloque-texto.p-4
@@ -23,7 +23,7 @@
     separador
     h2(data-aos="fade-up-right") Tipologías de los viajeros
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-4
       .col-8.col-lg-3.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='').img-flotante      
@@ -149,25 +149,25 @@
       .col-lg-8
         ul.lista-ul--color.lista-ul--separador
           li 
-            i
+            i.fas.fa-square
             | Caracterizar o segmentar los visitantes por nacionalidad, edad y género.
           li 
-            i
+            i.fas.fa-square
             | Definir una fecha para la toma de datos, ya que el interés del turista puede variar dependiendo de la estacionalidad.
           li 
-            i
+            i.fas.fa-square
             | Determinar el perfil del viajero y el tiempo de estancia en el destino. 
           li 
-            i
+            i.fas.fa-square
             | Analizar aspectos como concurrencia y fidelización del destino en el que esté identificado el interés del turista.
           li 
-            i
+            i.fas.fa-square
             | Identificar el número de personas que viajan al destino.
           li 
-            i
+            i.fas.fa-square
             | Tener en cuenta la permanencia en el lugar.
           li 
-            i
+            i.fas.fa-square
             | Determinar los gustos e intereses dependiendo servicios turísticos y atractivos.
 
     separador

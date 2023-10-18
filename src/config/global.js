@@ -196,11 +196,6 @@ export default {
     },
     {
       referencia:
-        'Libro | de la Ballina, F. J. (2018). <i>Marketing turístico aplicado.</i> Alpha Editorial.',
-      link: 'http://190.57.147.202:90/xmlui/handle/123456789/2798',
-    },
-    {
-      referencia:
         'Página web | OMT, CST: RMC (2008) Re: <i>Definición de Viajero.</i> UNESCO. GLOSARIO DE TÉRMINOS DE TURISMO.',
       link: 'https://www.unwto.org/es/glosario-terminos-turisticos ',
     },
