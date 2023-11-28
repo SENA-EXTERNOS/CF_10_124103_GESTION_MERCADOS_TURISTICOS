@@ -185,6 +185,10 @@ export default {
   referencias: [
     {
       referencia:
+        'Libro de la Ballina, F. J. (2018). <i>Marketing turístico aplicado</i>. Alpha Editorial.',
+    },
+    {
+      referencia:
         'Estudio investigativo | Pereira, G. A., & Gosling, M. (2017). Re: <i>Los viajeros y sus motivaciones: Un estudio exploratorio sobre quienes aman viajar. Estudios y perspectivas en turismo,</i> 26(1), 62-85.',
       link: 'http://www.scielo.org.ar/pdf/eypt/v26n1/v26n1a04.pdf',
     },
